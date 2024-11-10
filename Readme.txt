@@ -1,4 +1,4 @@
-Here’s a sample `README.md` file for the Habit Tracker project:
+
 
 # Habit Tracker
 This Habit Tracker application helps users manage and track their daily and weekly habits. Users can add, update, analyze, and delete habits, as well as view their longest and shortest streaks. The app saves habit data to a JSON file, ensuring persistence between sessions.
@@ -91,4 +91,4 @@ This project is open-source
 
  Author Bothwell Shumba
 
-This `README.md` provides a complete overview of the project, including installation, usage, and functionality details. Feel free to customize it further with specific links or additional sections as needed!
+
